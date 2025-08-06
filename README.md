@@ -15,5 +15,6 @@ Unlike traditional graphs where edges connect only two nodes, hypergraphs allow 
 
 ## Key Features
 
-##1.Advanced Relationship Modeling
-##2.Deep Learning Capabilities
+1.Advanced Relationship Modeling
+
+2.Deep Learning Capabilities
